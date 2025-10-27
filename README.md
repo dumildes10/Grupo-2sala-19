@@ -2,62 +2,48 @@
 <html lang="pt">
 <head>
   <meta charset="UTF-8">
-  <title>Parte textual da pesquisa </title>
+  <title>Sistema de Pagamento Para quota mensal dos taxista</title>
   <style>
-    table {
-      border-collapse: collapse;
-      width: 80%;
-      margin: auto;
-    }
-    th, td {
-      border: 1px solid #555;
-      padding: 10px;
+    body {
+      background-color: #f0f0f0;
+      font-family: Arial, sans-serif;
       text-align: center;
+      padding-top: 100px;
     }
-    th {
-      background-color: #ccc;
-    }
-    h1 {
-      text-align: center;
+
+    .boas-vindas {
+      background-color: #007BFF;
+      color: white;
+      padding: 40px;
+      border-radius: 10px;
+      width: 60%;
+      margin: 0 auto;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.2);
     }
   </style>
 </head>
 <body>
-  <h1>Tabela de Pagamento de Quota dos Taxistas</h1>
+    <h1>Sistema de Pagamento de quotas mensal da ANATA</h1>
+<img src="ana.png" alt="Este é um simbolo da ANATA">
+  <div class="boas-vindas">
+    <h1>Bem-vindo ao nosso site!</h1>
+    <p>É um prazer ter você aqui. Esperamos que aproveite sua visita.</p>
+  </div>
+  <a href="Sobre.html">Clik por favor para saber mais sobre ANATA</a>
+  <a href="Tabela.html">Agora Veja a razão do Tema escolhodo</a>
 
-  <table>
-    <tr>
-      <th>Sistema de pagamento de quotas para taxista ANATA</th>
-      <th>Objecto de estudo</th>
-      <th>Problema identificado</th>
-      <th>Objectivo geral</th>
-      <th>Objectivo espevifico</th>
-      <th>Tecnologia a utlizar</th>
-      <th>Grau de inovação</th>
-      <th>Declaração de estudantes</th>
-    </tr>
-    <tr>
-      <td>Este é o nosso tema da PAP</td>
-      <td>O<a href=""></a> Objecto do estudo é a ANATA</td>
-      <td>O problema é o seguinte: não existe um sistema tecnologico que ajuda no pagamento mensal da quota dos trabalhadores da ANATA </td>
-      <td>O objectivo geral do tema é desenvolver um sistema para melhorar o sistema de pagamento para qota mensal dos pagamento da ANATA </td>
-      <td>Objectivo especifico é melhorar o sistema de pagamento para qota mensal dos taxista da Anata, Organizar o sistema de pagamento para a quota mensal dos taxista</td>
-      <td>As tecnologias são: Html, css, python Javascript</td>
-      <td>Nâo existe um sistema de pagamento em Angoala para ANATA</td>
-      <td>Nos ultimos ano tem se reparado o esforço dos Lotadores por isso como grupo podemos afirmar que pretendemos fazer diferente ajudadndo no desenvolvimento e ajudar a melhorar o pagamento para qota mensal dos taxista de Angola </td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>Este é o nosso objectivo geral</td>
-      <td>Este foi o problema identificado</td>
-      <td>Sim este é o objectivo geral</td>
-      <td>Este é o nosso objectivo espicifico</td>
-      <td>Essas são as tecnologias que pretendemos usar</td>
-      <td> Queremos inovar fazendo algo novo e unico</td>
-      <td> Assinado por: Dumildes Fernando Muanha, Fernando Jamba, Enanuel Caboco Congolo Flora Jinga</td>
-    </tr>
-    <!-- Podes adicionar mais linhas -->
-  </table>
-  <a href="pagina inicial.html">Para Voltar a pagina inicial click por favor</a>
+  <footer>
+    &copy; 2025 grupo02 turma ANI tech. Todos os direitos reservados.
+    Técnicos de informatíca de gestão imcl
+    <div class="redes-sociais">
+      <a href="https://wa.me/956136998" target="_blank">WhatsApp</a>
+      <a href="https://Domingos Fernando" target="_blank">Facebook</a>
+      <a href="mailto:dumildesmuanha03gmail.com">Gmail</a>
+    </div>
+  </footer>
+
+
+  </>
+
 </body>
 </html>
